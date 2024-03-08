@@ -22,6 +22,11 @@
 
 - Security+ (CompTIA)
 
+<h2>Education:</h2>
+
+- Master of Science (Lancaster University, UK)
+- Bachelor of Science (Birla Institute of Technology, India)
+
 <h2>Blog:</h2>
 
 - [Articles](https://amitkchauhan.wixsite.com/home/blog)
