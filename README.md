@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amit K. Chauhan! <br/><a <a href="https://www.linkedin.com/in/amitkmrchauhan">Cybersecurity Professional</a>
+<h1>Hi, I'm Amit K. Chauhan (PMP, CSM, MSc.) <br/><a <a href="https://www.linkedin.com/in/amitkmrchauhan">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
 
@@ -11,12 +11,12 @@
 <h2>Certifications Achieved:</h2>
 
 - [Cybersecurity Certification (University of Toronto)](https://imgur.com/a/hUDa18I)
-- [Certified in Cybersecurity (ISC2)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Certified Project Management Professional - PMP® (Project Management Institute)](https://www.credly.com/badges/8dafaf4e-802a-4ec9-b7c1-f4a81b2465a1/linked_in?t=s9e12a)
-- [Certified ScrumMaster - CSM® (Scrum Alliance)]
-- [Agile Project Leadership (Project Management Institute)]
-- [Data Anlaytics Professional Diploma (AIMA)]
-- [Lean Six Sigma Green Belt (KPMG)]
+- [Certified in Cybersecurity (ISC2)](https://imgur.com/a/asCLfGd)
+- [Certified Project Management Professional - PMP® (Project Management Institute)](https://imgur.com/a/gastIbl)
+- [Certified ScrumMaster - CSM® (Scrum Alliance)](https://imgur.com/a/cylReHX)
+- [Agile Project Leadership (Project Management Institute)](https://imgur.com/a/44lsOC6)
+- [Data Anlaytics Professional Diploma (AIMA)](https://imgur.com/a/MAeEz0z)
+- [Lean Six Sigma Green Belt (KPMG)](https://imgur.com/a/Y7Fl7yK)
 
 <h2>Certifications in Progress:</h2>
 
@@ -24,8 +24,8 @@
 
 <h2>Education:</h2>
 
-- Master of Science (Lancaster University, UK)
-- Bachelor of Science (Birla Institute of Technology, India)
+- [Master of Science - Lancaster University (United Kigdom)](https://imgur.com/a/aykzJn4)
+- [Bachelor of Science - Birla Institute of Technology, India](https://imgur.com/a/7eTgQWX)
 
 <h2>Blog:</h2>
 
