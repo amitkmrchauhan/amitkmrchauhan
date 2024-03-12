@@ -25,7 +25,7 @@
 <h2>Education:</h2>
 
 - [Master of Science - Lancaster University (United Kigdom)](https://imgur.com/a/aykzJn4)
-- [Bachelor of Science - Birla Institute of Technology, India](https://imgur.com/a/7eTgQWX)
+- [Bachelor of Science - Birla Institute of Technology (India)](https://imgur.com/a/7eTgQWX)
 
 <h2>Blog:</h2>
 
